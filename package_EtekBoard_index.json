@@ -1,0 +1,393 @@
+{
+  "packages": [
+    {
+      "name": "EtekBoard",
+      "maintainer": "Quane tech.",
+      "websiteURL": "https://github.com/firmament79/ETEK",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/main/EtekBoard-1.0.0.zip",
+          "archiveFileName": "EtekBoard-1.0.0.zip",
+          "checksum": "SHA-256:a027af2753dd58a43d02f12b81e5c57ac13e63c49b2ccd46ac5075a235bc559d",
+          "size": "5641120",
+          "boards": [
+            {"name": "MINI v2.4 (UNO/ATmega328PU)"},
+            {"name": "MINI v3.0 (ATmega328PB)"},
+            {"name": "TANK v2.0 (ATmega2560)"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/main/EtekBoard-1.0.1.zip",
+          "archiveFileName": "EtekBoard-1.0.1.zip",
+          "checksum": "SHA-256:1a806867cb26bc5a3e0b62a78c1350039c0e4f65d7925377cb8a966d6d9d8ffa",
+          "size": "5631863",
+          "boards": [
+            {"name": "MINI v2.4 (UNO/ATmega328PU)"},
+            {"name": "MINI v3.0 (ATmega328PB)"},
+            {"name": "TANK v2.0 (ATmega2560)"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "1.0.2",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/main/EtekBoard-1.0.2.zip",
+          "archiveFileName": "EtekBoard-1.0.2.zip",
+          "checksum": "SHA-256:cc0550f1e8a47d97a3726f6a8248bff7af3c3c19f028b6a0cad5298558e603d5",
+          "size": "5635900",
+          "boards": [
+            {"name": "MINI v2.4 (UNO/ATmega328PU)"},
+            {"name": "MINI v3.0 (ATmega328PB)"},
+            {"name": "TANK v2.0 (ATmega2560)"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "1.0.3",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/main/EtekBoard-1.0.3.zip",
+          "archiveFileName": "EtekBoard-1.0.3.zip",
+          "checksum": "SHA-256:6a9007b425c26b16a30995d42f45f62cd84e82cf7628c08f6a00ad35af76468a",
+          "size": "5720000",
+          "boards": [
+            {"name": "MINI v2.4"},
+            {"name": "MINI v2.4 SE"},
+            {"name": "MINI v3.0"},
+            {"name": "TANK v2.0"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "2.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/main/EtekBoard-2.0.0.zip",
+          "archiveFileName": "EtekBoard-2.0.0.zip",
+          "checksum": "SHA-256:55b34d4ce00fb3abae48bb666dbb879c79f0e157999cb8f0a54b40032d7b71c9",
+          "size": "5711330",
+          "boards": [
+            {"name": "MINI v2.4"},
+            {"name": "MINI v2.4 SE"},
+            {"name": "MINI v3.0"},
+            {"name": "TANK v2.0"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "2.1.2",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/refs/heads/main/EtekBoard-2.1.2.zip",
+          "archiveFileName": "EtekBoard-2.1.2.zip",
+          "checksum": "SHA-256:857f55923f1d07e2faf4f8ebecdc9e46860b0049626d0bfd3aa3914bc3a42947",
+          "size": "5591351",
+          "boards": [
+            {"name": "MINI v2.4"},
+            {"name": "MINI v2.4 SE"},
+            {"name": "MINI v3.0"},
+            {"name": "TANK v2.0"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "2.1.3",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/refs/heads/main/EtekBoard-2.1.3.zip",
+          "archiveFileName": "EtekBoard-2.1.3.zip",
+          "checksum": "SHA-256:026fbebe8cb6a66312c46c7d6062b72330b13dc148c0533de1ce6c41d9671d41",
+          "size": "5599994",
+          "boards": [
+            {"name": "MINI v2.4"},
+            {"name": "MINI v2.4 SE"},
+            {"name": "MINI v3.0"},
+            {"name": "TANK v2.0"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "2.1.4",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/refs/heads/main/EtekBoard-2.1.4.zip",
+          "archiveFileName": "EtekBoard-2.1.4.zip",
+          "checksum": "SHA-256:6639d0893dacb4cc3c05789d001281317e7fccd68a00f5878b22e4ee246861fc",
+          "size": "5770565",
+          "boards": [
+            {"name": "MINI v2.4"},
+            {"name": "MINI v2.4 SE"},
+            {"name": "MINI v3.0"},
+            {"name": "TANK v2.0"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "2.1.5",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/refs/heads/main/EtekBoard-2.1.5.zip",
+          "archiveFileName": "EtekBoard-2.1.5.zip",
+          "checksum": "SHA-256:57e4d08e5f54786a0c3ac572ca35f9fe57545a99accb5e0beec561ceb205b4f6",
+          "size": "5778836",
+          "boards": [
+            {"name": "MINI v2.4"},
+            {"name": "MINI v2.4 SE"},
+            {"name": "MINI v3.0"},
+            {"name": "TANK v2.0"},
+            {"name": "LB v1.0"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "2.1.6",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/refs/heads/main/EtekBoard-2.1.6.zip",
+          "archiveFileName": "EtekBoard-2.1.6.zip",
+          "checksum": "SHA-256:47d82a3038a899e7b53a871fc80b0bba61f41197d4c9a23b616e6547c209ee41",
+          "size": "5779087",
+          "boards": [
+            {"name": "MINI v2.4"},
+            {"name": "MINI v2.4 SE"},
+            {"name": "MINI v3.0"},
+            {"name": "TANK v2.0"},
+            {"name": "LB v1.0"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "2.1.7",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/refs/heads/main/EtekBoard-2.1.7.zip",
+          "archiveFileName": "EtekBoard-2.1.7.zip",
+          "checksum": "SHA-256:a9812b4c6dc82226b0259b2b7da2e9cc6903661946ebb4dbf71817a3b7c658e6",
+          "size": "5779915",
+          "boards": [
+            {"name": "MINI v2.4"},
+            {"name": "MINI v2.4 SE"},
+            {"name": "MINI v3.0"},
+            {"name": "TANK v2.0"},
+            {"name": "LB v1.0"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "2.1.8",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/refs/heads/main/EtekBoard-2.1.8.zip",
+          "archiveFileName": "EtekBoard-2.1.8.zip",
+          "checksum": "SHA-256:78aadd98add5b130918e0c5ccdc4b1b296d57214c4883b8f7bccb11b79b7a4f4",
+          "size": "5807842",
+          "boards": [
+            {"name": "MINI v2.4"},
+            {"name": "MINI v2.4 SE"},
+            {"name": "MINI v3.0"},
+            {"name": "TANK v2.0"},
+            {"name": "LB v1.0"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "2.1.9",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/refs/heads/main/EtekBoard-2.1.9.zip",
+          "archiveFileName": "EtekBoard-2.1.9.zip",
+          "checksum": "SHA-256:6d82de38e2cf886f3cca41440cfb0b07c558fd7ed50c5a27a6e9ee8528cd0bdd",
+          "size": "5809605",
+          "boards": [
+            {"name": "MINI v2.4"},
+            {"name": "MINI v2.4 SE"},
+            {"name": "MINI v3.0"},
+            {"name": "TANK v2.0"},
+            {"name": "LB v1.0"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "2.2.0",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/refs/heads/main/EtekBoard-2.2.0.zip",
+          "archiveFileName": "EtekBoard-2.2.0.zip",
+          "checksum": "SHA-256:FF2BE94FF11EF7D78A5874E34CCC18C5FB961E4E799252AA6C53C4F205320C30",
+          "size": "5784195",
+          "boards": [
+            {"name": "MINI v2.4"},
+            {"name": "MINI v2.4 SE"},
+            {"name": "MINI v3.0"},
+            {"name": "SENTRY v1.0"},
+            {"name": "TANK v2.0"},
+            {"name": "CRUISER v1.0"},
+            {"name": "LB"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
+        }
+
+      ],
+      "tools": [
+        {
+          "name": "avrdude",
+          "version": "7.2-arduino.1",
+          "systems": [
+            {
+              "size": "1243922",
+              "checksum": "SHA-256:b5b88e4f52c0edb861f5ae54acbd752f9ecd562a4db4d821ab8c276ee5696dab",
+              "host": "arm-linux-gnueabihf",
+              "archiveFileName": "avrdude_7.2-arduino.1_Linux_ARMv6.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.2-arduino.1_Linux_ARMv6.tar.gz"
+            },
+            {
+              "size": "1348250",
+              "checksum": "SHA-256:a3862e6a38668c2688dc0822b16c3f824612cc606259b6813bc5778d36c92ba9",
+              "host": "aarch64-linux-gnu",
+              "archiveFileName": "avrdude_7.2-arduino.1_Linux_ARM64.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.2-arduino.1_Linux_ARM64.tar.gz"
+            },
+            {
+              "size": "928946",
+              "checksum": "SHA-256:256cbde856714a18c11b4c99f6b00eed65e4208c92425fa9cfd75a5bdfb6ab09",
+              "host": "x86_64-apple-darwin12",
+              "archiveFileName": "avrdude_7.2-arduino.1_macOS_64bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.2-arduino.1_macOS_64bit.tar.gz"
+            },
+            {
+              "size": "1256881",
+              "checksum": "SHA-256:25e1b568757d9a58b9663e4493ffc04b9e6d690535c9c1e6c1db7d1ecffb5eff",
+              "host": "x86_64-linux-gnu",
+              "archiveFileName": "avrdude_7.2-arduino.1_Linux_64bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.2-arduino.1_Linux_64bit.tar.gz"
+            },
+            {
+              "size": "1252284",
+              "checksum": "SHA-256:86a811f6ba2bebbb717a524fcff495f0ebb146abcd15d341a10d867b8e8c83fd",
+              "host": "i686-linux-gnu",
+              "archiveFileName": "avrdude_7.2-arduino.1_Linux_32bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.2-arduino.1_Linux_32bit.tar.gz"
+            },
+            {
+              "size": "1682746",
+              "checksum": "SHA-256:5536c9fcb41f4a36aa55b3711a0d74943a401261b15cc8aae2473c30ff292021",
+              "host": "i686-mingw32",
+              "archiveFileName": "avrdude_7.2-arduino.1_Windows_32bit.tar.gz",
+              "url": "http://downloads.arduino.cc/tools/avrdude_7.2-arduino.1_Windows_32bit.tar.gz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
